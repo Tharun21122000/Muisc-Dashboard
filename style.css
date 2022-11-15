@@ -1,0 +1,148 @@
+.flex-container{
+    background-color: rgb(217, 228, 228);
+    width: 100vw;
+    height: 100vh;
+}
+.header-section-one{
+    background-color:#f4f0f7;
+    width: 100vw;
+    height: 10vh;
+    text-align: center;
+    border-bottom: #693748;
+}
+.logo{
+    font-size: 40px;
+    margin-right: 2%;
+    margin: 5px;
+    margin-left: 70px;
+}
+.website-name{
+    margin: 5px;
+}
+.music-website-name{
+    font-family:"Comic Sans MS";
+}
+.search{
+    height: 40px;
+    width: 500px;
+    border-radius: 10px;
+    background-color:white;
+    border-color: whitesmoke;
+}
+.search-bar{
+    margin: 10px;
+    margin-left: 100px;
+}
+.top-data{
+    margin-top:5px;
+    margin-left: 50px;
+}
+nav{
+    padding: 5px;
+    font-size: 15px;
+    margin: 10px;
+    font-weight: bold;
+    color: black;
+}
+nav a{
+   
+    color: rgb(21, 22, 22);
+    text-decoration: none;
+    padding: 10px;
+}
+.header-color{
+    text-decoration: none;
+}
+.image{
+    border-radius: 200px;
+    height: 60px;
+    width: 60px;
+    margin-top: 10px;
+}
+.side-content{
+    background-color: #f4f0f7;
+    width: 15vw;
+    height: 90vh;
+    text-align: left;
+  
+}
+.right-side-top-card-heading{
+   
+    margin-top: 30px;
+}
+.right-side-card{
+    text-align: left;
+    font-weight: bold;
+    margin-left: 30px;
+    color:#693748;
+}
+.List-card{
+    text-align: left;
+    margin-left: 30px;
+    color: black;
+    cursor: pointer;
+}
+.button-style{
+    margin-left: 30px;
+}
+.middle-content-title{
+    margin-top: 15px;
+    margin-left: 20px;
+    color: #0b2a07;
+
+}
+.caurosel-1{
+    height: 30vh;
+    width: 25vw;
+    margin-left: 30px;
+    margin-top: 20px;
+    background-color: rgb(184, 190, 193);
+    border-radius: 30px;
+    box-shadow: 2px 2px #693748;
+}
+.w-100{
+    height: 170px;
+    width: 150px;
+    border-radius: 30px;
+}
+.carousel-title{
+    text-align: center;
+    font-family:"Comic Sans MS";
+}
+.carousel-item{
+    padding: 10px;
+}
+.image-LTS{
+    height: 170px;
+    width: 170px;
+    border-radius: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.LTS-card{
+    height: 30vh;
+    width: 12.3vw;
+    margin-left: 30px;
+    margin-top: 20px;
+    background-color: rgb(184, 190, 193);
+    border-radius: 30px;
+    box-shadow: 2px 2px #693748;
+}
+.song-name{
+    text-align: center;
+    margin-top: 2px;
+}
+.song-title{
+    font-size: 10px;
+}
+.Movie-name{
+    font-size: 10px;
+}
+.middle-bottom-card-down{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.Singer-name{
+    font-weight: bold;
+}
